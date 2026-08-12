@@ -33,8 +33,8 @@ Here are some of the projects I've worked on:
 
 ### Connect With Me
 
-- [LinkedIn](YOUR_LINKEDIN_URL)
-- [Email](mailto:YOUR_EMAIL)
+- [LinkedIn]((https://www.linkedin.com/in/jeel-vachhani-810a0b376/))
+- [Email](mailto:jeelvachhani38@gmail.com)
 
 ---
 
