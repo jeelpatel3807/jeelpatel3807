@@ -1,4 +1,4 @@
-# Hi, I'm Jeel Patel 👋
+# Hi, I'm Jeel Vachhani 👋
 
 ### MSc IT Student | Python & Machine Learning
 
